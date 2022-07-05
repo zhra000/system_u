@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Users\\evilz\\Documents\\GitHub\\system_u"
+		},
+		{
+			"path": "auth"
+		},
+		{
+			"path": "edit"
+		},
+		{
+			"path": "image"
+		},
+		{
+			"path": "register"
+		},
+		{
+			"path": "src"
+		},
+		{
+			"path": "vendor"
+		}
+	],
+	"settings": {}
+}

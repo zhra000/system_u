@@ -19,7 +19,7 @@
 <body class="font-mali vh-100 d-flex justify-content-center align-items-center">
 	<div class="card mb-3">
 		<div class="card-header bg-primary text-white">
-			<h4>สมัครสมาชิก</h4>
+			<h4>สมัครสมาชิก </h4>
 		</div>
 		<div class="card-body">
 			<form action="signup_db.php" class="mb-3" method="POST">

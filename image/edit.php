@@ -30,7 +30,6 @@
                 if ($type == "image/jpg" || $type == 'image/jpeg' || $type == "image/png" || $type == "image/gif") {
                     if (!file_exists($path)) {
                         if ($size < 5000000) { 
-                            unlink($directory.$row['image']);
                             move_uploaded_file($temp, 'fileupload/'.$image_file); 
                         } else {
                             $errorMsg = "Your file to large please upload 5MB size";
